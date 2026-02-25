@@ -2,7 +2,7 @@
 
 This is a very basic example of how create the React version of AdapTable - the market-leading, low code AG Grid extension - using CRA and CRACO.
 
-CRACO is required since Create React App was officially deprecated in February 2025.
+> CRACO is required since Create React App was officially deprecated in February 2025
 
 For full information on how to use AdapTable see the [AdapTable Documentation](https://www.adaptabletools.com/docs).
 
@@ -15,7 +15,7 @@ The demo is built using these key packages:
 
 ## Contents
 
-This template contains just the bare bones required to set up an AdapTable instance. 
+This template contains just the bare bones required to set up an AdapTable React instance. 
 
 A "real world" example would likely include:
 
