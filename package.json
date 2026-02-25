@@ -1,7 +1,7 @@
 {
-  "name": "support-template-adaptable-aggrid",
+  "name": "example-adaptable-aggrid-cra",
   "version": "1.0.0",
-  "description": "AdapTable Support Template",
+  "description": "AdapTable Example using CRA/CRACO",
   "private": true,
   "scripts": {
     "start": "craco start",

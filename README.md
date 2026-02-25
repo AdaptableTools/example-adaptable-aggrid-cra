@@ -14,8 +14,8 @@ For full information on how to use AdapTable see the [AdapTable Documentation](h
 
 The demo is built using these key packages:
 
-- [AdapTable](https://www.adaptabletools.com) version 21.x
-- [AG Grid](https://www.ag-grid.com) version 34.x
+- [AdapTable](https://www.adaptabletools.com) version 22.x
+- [AG Grid](https://www.ag-grid.com) version 35.x
 
 ## Contents
 
@@ -35,12 +35,12 @@ Run `npm install` (or `yarn`), depending on what tool you're using.
 Execute the following command
 
 ```sh
-$ npm run dev
+$ npm start
 ```
 
-NOTE: The first time you run this, it takes longer as parcel generates some cache, etc - subsequent runs will be a lot faster
+NOTE: The first time you run this, it takes longer as CRA/CRACO generates some cache, etc - subsequent runs will be a lot faster
 
-Now navigate to [localhost:1234](http://localhost:1234) in order the see AdapTable in action.
+Now navigate to [http://localhost:3000](http://http://localhost:3000) in order the see AdapTable in action.
 
 Any change you make in your sources will trigger a browser reload, since parceljs comes with built-in hot-reloading in order to keep you productive.
 
@@ -50,15 +50,15 @@ Any change you make in your sources will trigger a browser reload, since parcelj
 $ npm run build
 ```
 
-This generates a `dist` folder, which you can deploy on a webserver.
+This generates a `build` folder, which you can deploy on a webserver.
 
 On your local machine, you can run
 
 ```sh
-$ npx serve dist
+$ npx serve build
 ```
 
-to launch a webserver that serves the generated `dist` folder - now go to [localhost:5000](http://localhost:5000) to see the production version.
+to launch a webserver that serves the generated `build` folder - now go to [localhost:5000](http://localhost:5000) to see the production version.
 
 ## Licences
 
