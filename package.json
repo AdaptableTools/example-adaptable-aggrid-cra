@@ -1,0 +1,42 @@
+{
+  "name": "support-template-adaptable-aggrid",
+  "version": "1.0.0",
+  "description": "AdapTable Support Template",
+  "private": true,
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,css,scss,md,json,html}\""
+  },
+  "dependencies": {
+    "@adaptabletools/adaptable": "22.0.0",
+    "ag-grid-enterprise": "35.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@craco/craco": "^7.1.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "prettier": "^2.7.1",
+    "react-scripts": "5.0.1",
+    "typescript": "4.9.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [],
+  "author": "JonnyAdaptableTools",
+  "license": "MIT",
+  "homepage": "."
+}

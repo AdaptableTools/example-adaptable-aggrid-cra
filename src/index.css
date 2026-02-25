@@ -1,0 +1,19 @@
+:root {
+  --ab__font-family: Helvetica;
+}
+
+body {
+  font-family: var(--ab__font-family);
+  padding: 0;
+  margin: 0;
+}
+
+.content {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#grid {
+  flex: 1;
+}
