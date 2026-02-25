@@ -1,4 +1,4 @@
-# AdapTable React Example (using CRA / CRACO)
+# AdapTable AG Grid Example (using CRA / CRACO)
 
 This is a very basic example of how create the React version of AdapTable - the market-leading, low code AG Grid extension - using CRA and CRACO.
 
