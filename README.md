@@ -1,12 +1,8 @@
-# AdapTable (Vanilla TypeScript) Support Template
+# AdapTable React Example (using CRA / CRACO)
 
-This is a very basic example of how to get started with AdapTable - the market-leading, low code AG Grid extension.
+This is a very basic example of how create the React version of AdapTable - the market-leading, low code AG Grid extension - using CRA and CRACO.
 
-This template is particularly useful if you wish to build a very small demo for Support purposes.
-
-It is written purely in **TypeScript** and does not use one of the Framework wrappers.
-
-> A JavaScript only version will soon be available...
+CRACO is required since Create React App was officially deprecated in February 2025.
 
 For full information on how to use AdapTable see the [AdapTable Documentation](https://www.adaptabletools.com/docs).
 
